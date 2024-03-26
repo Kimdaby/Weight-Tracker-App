@@ -2,7 +2,7 @@
 
 Weight Tracker app that was created with HTML/CSS and JavaScript
 
-### Start tracking your progress [here](https://kimdaby.github.io/Todo-App/)
+### Start tracking your progress [here](ttps://kimdaby.github.io/Weight-Tracker-App/)
 
 ![Weight](weight.png)
 
