@@ -11,8 +11,8 @@ document
     if (tableResult.rows.length < 1) {
       addHeader();
     }
-    addShit();
-    resetShit();
+    addStuff();
+    resetStuff();
   });
 
 function addShit() {
