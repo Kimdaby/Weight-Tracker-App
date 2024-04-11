@@ -15,7 +15,7 @@ document
     resetStuff();
   });
 
-function addShit() {
+function addStuff() {
   const tableRowEntry = document.createElement("tr");
   const dateEntry = document.createElement("td");
   const weightEntry = document.createElement("td");
@@ -46,7 +46,7 @@ function addShit() {
   tableResult.append(tableRowEntry);
 }
 
-function resetShit() {
+function resetStuff() {
   notes.value = "";
   weight.value = "";
   date.value = "";
